@@ -1,10 +1,3 @@
-//
-//  AppDelegate.swift
-//  ElinextTestTask
-//
-//  Created by Mac on 19.07.21.
-//
-
 import UIKit
 
 @main
